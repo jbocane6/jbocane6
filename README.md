@@ -9,7 +9,7 @@
 
 - <h3>🔭 I'm studying Low level programming at  <a href="https://www.holbertonschool.com/co/en" target="blank"> <img src="https://raw.githubusercontent.com/jbocane6/logos/main/holberton-logo.png" alt="holberton" width="120" height="20"/> </a> </h3>
 
--  <h3>👨‍💻 All of my projects are available at  <a href="https://github.com/jbocane6" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="20" height="20"/> </a> </h3>
+-  <h3>👨‍💻 All of my projects are available at  <a href="https://github.com/jbocane6?tab=repositories" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="20" height="20"/> </a> </h3>
 
 -  <h3>📝 I regularly write articles on  <a href="https://www.linkedin.com/in/juan-camilo-bocanegra-osorio-18b1821a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/jbocane6/logos/main/linkedin.png" alt="juan-camilo-bocanegra-osorio-18b1821a6" height="20" width="20" /></a></h3>
 
